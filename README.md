@@ -1,28 +1,8 @@
-# SistemaLoja
+-------
+# Sistema de Gerenciamento de Loja com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+ **Nesse Pequeno  Sistema de Loja utilizando angular Pude Utilizar o que aprendi de angular nesse primeiro mês estudando o Framework**
 
-## Development server
+Depois de entender como funcionava o framework, e estudar um pouco sobre requisições e protocolos **HTTP**, resolvi então pôr em prática o que estou estudando é desenvolver um sistema básico, porém, muito importante para qualquer iniciante na área de desenvolvimento, utilizando operações **CRUD** (Create, Read, Update, Delete) fiz um Sistema de Cadastro de Produtos, utilizando Angular e a Biblioteca de componentes **AngularMaterial**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-sistem-crud
+![enter image description here](https://media-exp1.licdn.com/dms/image/C4D22AQHnC_E8YX2cfg/feedshare-shrink_800/0/1669770989694?e=1673481600&v=beta&t=Fxb727ekm54OoWm4C0_bKHEHfsmImb07Xry6gfqgfDA)
